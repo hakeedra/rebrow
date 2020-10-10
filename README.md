@@ -1,3 +1,7 @@
+当前版本支持redis password，主repo那边没有接受这个pr，故作标记
+
+
+
 rebrow - Python-Flask-based Browser for Redis Content
 =====================================================
 
